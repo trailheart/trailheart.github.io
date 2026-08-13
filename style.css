@@ -790,7 +790,7 @@ body {
    ========================================================================== */
 .trailbot-widget {
   position: fixed;
-  top: 24px;
+  bottom: 24px;
   right: 24px;
   z-index: 1000;
 }
@@ -811,7 +811,7 @@ body {
 }
 
 .trailbot-pill:hover {
-  transform: translateY(2px);
+  transform: translateY(-3px);
   box-shadow: 0 14px 36px rgba(218, 119, 86, 0.25);
 }
 
@@ -848,7 +848,7 @@ body {
   flex-direction: column;
   overflow: hidden;
   position: absolute;
-  top: 0;
+  bottom: 0;
   right: 0;
   transition: all var(--transition-fast);
 }
