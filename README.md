@@ -6,7 +6,7 @@ I am **Egehan ÇETİNEL** (`@trailheart`), a high school student in Istanbul, T�
 
 ---
 
-## 🎨 Design & Aesthetic System
+## Design & Aesthetic System
 
 - **Bento Grid Architecture**: Clean, modular cards inspired by modern dashboard aesthetics.
 - **Claude Editorial Typography**: Elegant serif headers using **Newsreader** (Google Fonts, SIL Open Font License), paired with **Plus Jakarta Sans** for body UI and **JetBrains Mono** for code.
@@ -14,17 +14,17 @@ I am **Egehan ÇETİNEL** (`@trailheart`), a high school student in Istanbul, T�
 
 ---
 
-## ⚡ Interactive Website Features
+## Interactive Website Features
 
-- 🕒 **Live Istanbul Timezone Clock**: Real-time digital clock locked to Istanbul (`UTC+03:00`) with 24H/12H toggle.
-- 🐍 **Python Sandbox Simulator**: Interactive runner executing the `Developer` class snippet from my GitHub profile.
-- 💻 **Interactive CLI Terminal**: Fish Shell (`trailheart@linux-workstation ~>`) CLI with auto-typing `neofetch` system overview.
-- 🌧️ **Matrix Digital Rain**: High-performance canvas digital rain visualizer running behind the terminal backdrop.
-- 🤖 **TrailBot AI Assistant**: Floating top-right chat drawer answering Q&A about my background, skills, and projects.
+- **Live Istanbul Timezone Clock**: Real-time digital clock locked to Istanbul (`UTC+03:00`) with 24H/12H toggle.
+- **Python Sandbox Simulator**: Interactive runner executing the `Developer` class snippet from my GitHub profile.
+- **Interactive CLI Terminal**: Fish Shell (`trailheart@linux-workstation ~>`) CLI with auto-typing `neofetch` system overview.
+- **Matrix Digital Rain**: Canvas digital rain visualizer running behind the terminal backdrop.
+- **TrailBot Assistant**: Floating top-right chat drawer answering Q&A about my background, skills, and projects.
 
 ---
 
-## 🛠️ Languages & Tech Arsenal
+## Languages & Tech Arsenal
 
 - **Primary Tools**: Python, Linux Systems, Git, CustomTkinter
 - **Currently Expanding**: Cyber Security, Flask, C# / .NET, HTML5 / Web
@@ -32,13 +32,13 @@ I am **Egehan ÇETİNEL** (`@trailheart`), a high school student in Istanbul, T�
 
 ---
 
-## 📬 Contact & Links
+## Contact & Links
 
-- 🌐 **Live Website**: [https://trailheart.github.io](https://trailheart.github.io)
-- 📧 **Personal Email**: [contactegehancetinel@gmail.com](mailto:contactegehancetinel@gmail.com)
-- 🏢 **Organization Email**: [trailheart@vesperaindustries.com](mailto:trailheart@vesperaindustries.com)
-- 💬 **Discord**: `trailheart`
-- 🐙 **GitHub Profile**: [@trailheart](https://github.com/trailheart)
+- **Live Website**: [https://trailheart.github.io](https://trailheart.github.io)
+- **Personal Email**: [contactegehancetinel@gmail.com](mailto:contactegehancetinel@gmail.com)
+- **Organization Email**: [trailheart@vesperaindustries.com](mailto:trailheart@vesperaindustries.com)
+- **Discord**: `trailheart`
+- **GitHub Profile**: [@trailheart](https://github.com/trailheart)
 
 ---
 
